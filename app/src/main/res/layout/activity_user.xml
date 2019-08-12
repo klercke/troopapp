@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:gravity="center"
-    tools:context="com.prototypexenon.troopapp.UserActivity">
+    android:gravity="top"
+    tools:context="com.prototypexenon.troopapp.UserActivity"
+    android:background="@color/colorBackground">
 
     <TextView
         android:layout_width="match_parent"
@@ -25,4 +26,10 @@
         android:layout_margin="15dp"
         android:text="Logout"
         android:textSize="25dp"/>
-</RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background"
+        android:background="@color/colorBackground"/>
+</LinearLayout>

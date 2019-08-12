@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979054975605",
+    "firebase_url": "https://troop-21-app.firebaseio.com",
+    "project_id": "troop-21-app",
+    "storage_bucket": "troop-21-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979054975605:android:3a2a31d9b3b55db7",
+        "android_client_info": {
+          "package_name": "com.prototypexenon.troopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979054975605-s2f3cjd4t63o5mhvue2lq1fpdmrj7k8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS842IQejQRzOfVvR-bpnvRhilrneE9fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979054975605-s2f3cjd4t63o5mhvue2lq1fpdmrj7k8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
